@@ -24,7 +24,7 @@ We collected data in a variety of ways.<br>
 ##### 1. YOLOv5
 We used DarkLabel(Data Labeling Program operating in a Windows environment)
 * You can download DarkLabel in Github (https://github.com/darkpgmr/DarkLabel)<br>
-* We Labeled data following this file. => [DarkLabel.pdf](https://github.com/dalabdgw/Hijab_Detection/files/12026408/DarkLabel.pdf) <br>
+* We labeled data following this file. => [DarkLabel.pdf](https://github.com/dalabdgw/Hijab_Detection/files/12026408/DarkLabel.pdf) <br>
 ![스크린샷 2023-08-10 205234](https://github.com/dalabdgw/Piano_Keyboard_Detection/assets/135303032/e581d9e1-5ff1-4e64-831b-55168e58180a)
 ##### 2. SSD-MobileNet
 We converted labeled data for YOLOv5 to Pascal VOC data. Then we converted Pascal VOC data to csv files to make tfrecord files.
