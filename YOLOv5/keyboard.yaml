@@ -1,0 +1,5 @@
+names:
+- keyboard
+nc: 1
+train: C:/Users/User/Desktop/fingers detection/YOLOV5 - 2023-08-03/C3Pap_openpose/keyboard/images/train/
+val: C:/Users/User/Desktop/fingers detection/YOLOV5 - 2023-08-03/C3Pap_openpose/keyboard/images/val/
