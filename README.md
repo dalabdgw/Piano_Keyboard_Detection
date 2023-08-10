@@ -6,7 +6,7 @@ The piano keyboard detection is an object detection task that detects keyboard o
 * <b>YOLOv5 model</b><br>
   to be be added!<br>
 * <b>SSD-MobileNet model</b><br>
-  to be updated<br>
+  to be be added!<br>
   → It is important to structure your directories strictly by following the guidelines well for this model.
   
 # Data
