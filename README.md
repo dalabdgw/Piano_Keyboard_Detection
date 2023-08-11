@@ -4,7 +4,7 @@ The piano keyboard detection is an object detection task that detects keyboard o
 
 ### Models
 * <b>YOLOv5 model</b><br>
-  to be added!<br>
+  <a href="https://github.com/dalabdgw/Piano_Keyboard_Detection/tree/main/YOLOv5">Go this project</a><br>
 * <b>SSD-MobileNet model</b><br>
   * <a href="https://github.com/dalabdgw/Piano_Keyboard_Detection/tree/main/SSD-MobileNet">Go this project</a><br>
   → It is important to structure your directories strictly by following the guidelines well for this model.
@@ -13,7 +13,7 @@ The piano keyboard detection is an object detection task that detects keyboard o
 
 ### Dataset
 We collected 2,605 images from divided in 5 technique related videos and we trained these data.<br>
-The class is defined as follows:<br>
+The class is defined as follow:<br>
 * keyboard
   
 ### Data Collection
