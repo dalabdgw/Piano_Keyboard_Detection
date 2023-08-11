@@ -1,7 +1,7 @@
 # Piano_Keyboard_Detection_for_SSD_MobileNet_in_GoogleColab
 <p align="right">
-  <b>Click on the image below to open this file in google colab.</b><br>
-  <a href="https://colab.research.google.com/gist/dalabdgw/019955b172571a75a1d95269fa5abe54/keyboard_object_detection_model_for_ssd_in_googlecolab.ipynb"><img src="https://github.com/dalabdgw/Piano_Keyboard_Detection/assets/135303032/559ed90c-8aec-47af-a5a7-1f7d56a5fc2f" width="150" height="60"></a>
+  <b>Click on the hyperlink below to open this file in google colab.</b><br>
+  <a href="https://colab.research.google.com/gist/dalabdgw/019955b172571a75a1d95269fa5abe54/keyboard_object_detection_model_for_ssd_in_googlecolab.ipynb">Open this file in google colab</a>
 </p>
 
 ### Description
