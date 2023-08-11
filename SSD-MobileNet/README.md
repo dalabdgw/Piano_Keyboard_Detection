@@ -44,6 +44,27 @@ content
 └── training
 ```
 
+# Data
+We collected data in a variety of ways.
+![ssd-mobilenet](https://github.com/dalabdgw/Piano_Keyboard_Detection/assets/135303032/8ee67d80-1424-45cd-b142-d7ceaee5b29f)
+
+### Dataset
+The class is defined as follows:
+- keyboard
+
+### Data Collection
+1. We collected 2,605 images from related videos divided in five classes using OpenPose.(fps: 30)
+
+2. We collected about 10 images by searching "playing piano" in google.
+
+#### Data Labeling
+First, we create labeled data using DarkLabel(Data Labeling Program operating in a Windows environment) for YOLOv5.<br>
+Second, we converted labeled data for YOLOv5 to Pascal VOC data.<br>
+Finally, we converted Pascal VOC data to csv files to make tfrecord files.
+![259731714-e581d9e1-5ff1-4e64-831b-55168e58180a](https://github.com/dalabdgw/Piano_Keyboard_Detection/assets/135303032/c0b45a18-842d-40b6-ab7b-ef87a1c718b7)
+* You can download DarkLabel in Github (https://github.com/darkpgmr/DarkLabel)
+
+
 # Result 
 ### Training Result
 
