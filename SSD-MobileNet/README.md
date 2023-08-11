@@ -49,7 +49,7 @@ We collected data in a variety of ways.
 ![ssd-mobilenet](https://github.com/dalabdgw/Piano_Keyboard_Detection/assets/135303032/8ee67d80-1424-45cd-b142-d7ceaee5b29f)
 
 ### Dataset
-The class is defined as follows:
+The class is defined as follow:
 - keyboard
 
 ### Data Collection
